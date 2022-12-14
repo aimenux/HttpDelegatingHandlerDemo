@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/HttpDelegatingHandlerDemo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimenux/HttpDelegatingHandlerDemo/actions/workflows/ci.yml)
+
 # HttpDelegatingHandlerDemo
 ```
 Using http delegating handlers
