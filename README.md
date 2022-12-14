@@ -5,7 +5,7 @@
 Using http delegating handlers
 ```
 
-> In this repo, i m using [http delegation handlers](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.delegatinghandler) in various ways :
+> In this repo, i m using [http delegation handlers](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.delegatinghandler) for various purposes :
 >
 > - `TimingHandler` : log request processing time
 >
